@@ -6,7 +6,7 @@ public class NinthStandard {
 		
 		EigthStandard e = new EigthStandard();
 		e.ubed();
-		
+		e.finn();
 	}
 
 }
