@@ -19,6 +19,9 @@ public class EigthStandard { //pascal or init notations
 		System.out.println("he is a good dancer");
 		
 	}
+	public void finn() {
+		System.out.println("wrestler");
+	}
 	
 	
 	public static void main(String[] args){
@@ -27,7 +30,7 @@ public class EigthStandard { //pascal or init notations
 		e.ubed();
 		e.yogeshWaran();
 		e.jeganKumar();
-		
+		e.finn();
 	}
 
 }
