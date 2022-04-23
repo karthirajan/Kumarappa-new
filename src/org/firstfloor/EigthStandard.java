@@ -2,18 +2,17 @@ package org.firstfloor;
 
 public class EigthStandard { //pascal or init notations
 	
-	public void jeganKumar(){ // camal notation
+	public void Gowri(){ // camal notation
 		
-		System.out.println("he is a good learner");
-		
+		System.out.println("deleted methods successfully");
 	}
 	
-	public void ubed(){
+<<<<<<< HEAD
+	public static void main(String[] args){
 		
-		System.out.println("he is a good cricketer");
-		
-	}
-	
+		EigthStandard e = new EigthStandard();
+		e.Gowri();
+=======
 	public void yogeshWaran(){
 		
 		System.out.println("he is a good dancer");
@@ -33,6 +32,7 @@ public void karthi(){
 		e.yogeshWaran();
 		e.jeganKumar();
 		e.karthi();
+>>>>>>> 71c501735f3170673c7605d679fc9437f5481920
 		
 	}
 
